@@ -1,9 +1,8 @@
 # Hello there, I am Alan
 
 <div>
-    <img  src="https://github-readme-stats.vercel.app/api?username=Alanghj&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanghj&layout=compact&langs_count=16&theme=nightowl"/>
-    
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -16,3 +15,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+nightowl
