@@ -17,7 +17,7 @@
 <a href="https://app.hackthebox.com/profile/1049935" target="_blank"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"</a>
 </div> 
   
-## Tech Stack
+## :technologist: Tech Stack
 <div align="center"> 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
