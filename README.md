@@ -13,7 +13,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/alan-lustroza/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="mailto:alancardoso122@gmail.om" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="mailto:#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://app.hackthebox.com/profile/1049935" target="_blank"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"</a>
 </div> 
   
